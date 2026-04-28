@@ -1,6 +1,6 @@
 <img src="https://github.com/user-attachments/assets/c2ad2e5b-741b-4852-a123-89547d6b8308" width="1200" height="300" alt="MasterHead">
 
-## 💁‍♂️ Hi, I am Atom - a Data Engineer newbie.
+## 💁‍♂️ Hi, I am Jack - a Data Engineer newbie.
 
 - 📖 Majoring in **Information Systems** at University of Information Technology - UIT
 - 🎓 My interests lie in **Hadoop, Spark, Superset, Kafka, Azure, ....**
